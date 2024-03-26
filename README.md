@@ -1,2 +1,1 @@
-# hockey
-es una pagina de hockey
+# Migthy Ducks Hockey League
